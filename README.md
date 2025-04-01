@@ -6,6 +6,9 @@ COVID-19 Exploratory Data Analysis (EDA)
 
 This project performs Exploratory Data Analysis (EDA) on COVID-19 data obtained from an API. The dataset contains information on daily reported cases, tests, hospitalizations, and deaths across different U.S. states. The analysis focuses on data cleaning, handling missing values, and visualizing key trends.
 
+[🔗 Trello Board](https://trello.com/b/5LNZiRo7/eda-machine-learning)
+
+
 📊 Data Source
 
 The data is fetched from the COVID Tracking Project API. The dataset includes:
